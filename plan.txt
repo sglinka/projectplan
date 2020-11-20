@@ -12,3 +12,4 @@ My project plan:
 - Sell the project
 
 This is the end of the project.
+-------------------------------
