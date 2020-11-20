@@ -10,3 +10,5 @@ My project plan:
 - Do testing
 - Deployment
 - Sell the project
+
+This is the end of the project.
