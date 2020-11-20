@@ -8,4 +8,4 @@ My project plan:
 - Do implementation
 - Do testing
 - Deployment
-- Sell the project
+-Sell and be rich :)
