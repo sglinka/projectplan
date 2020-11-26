@@ -4,6 +4,7 @@ My project plan:
 - Read a book
 - Read a second book
 - Conduct interview
+- Have lunch
 - Do requirements analysis
 - Do Use Case analysis
 - Do implementation
